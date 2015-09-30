@@ -12,6 +12,7 @@ There is a folder with images of the LowFi paper prototype as well.
 
 ## Video
 You can find the video for the HiFi program [here](https://www.youtube.com/watch?v=KVsfcLbdqSE).
+A video was created for a mock Kickstarter campaign. It is a video about the Smart PillBox product that was being developed. I It can be found [here](https://youtu.be/UWskZbVnZQw)
 
 ## Running the Prototype
 Click on the JAR file. The other files are included for code review if desired.
